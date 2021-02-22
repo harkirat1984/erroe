@@ -1,0 +1,317 @@
+Microsoft Windows [Version 10.0.19042.804]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\HP>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP>LS
+'LS' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP>Pwd
+'Pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP>Ls
+'Ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP>
+C:\Users\HP>cd
+C:\Users\HP
+
+C:\Users\HP>cd desktop
+
+C:\Users\HP\Desktop>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop>cd 'class 62'
+The system cannot find the path specified.
+
+C:\Users\HP\Desktop>cd "class 62"
+
+C:\Users\HP\Desktop\class 62>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62>LS
+'LS' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62>cd "class"
+
+C:\Users\HP\Desktop\class 62\class>LD
+'LD' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62\class>ld
+'ld' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62\class>sudo npm install
+'sudo' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62\class>npm install
+npm ERR! code ERR_SOCKET_TIMEOUT
+npm ERR! errno ERR_SOCKET_TIMEOUT
+npm ERR! request to https://registry.npmjs.org/minimist failed, reason: Socket timeout
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\HP\AppData\Local\npm-cache\_logs\2021-02-22T11_03_49_194Z-debug.log
+
+C:\Users\HP\Desktop\class 62\class>yffug kuyg mkyufgjyufkgfk hgf  npn install8
+'yffug' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\HP\Desktop\class 62\class>npm install
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated deep-assign@3.0.0: Check out `lodash.merge` or `merge-options` instead.
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated @hapi/topo@3.1.6: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/address@2.1.4: Moved to 'npm install @sideway/address'
+npm WARN deprecated @hapi/hoek@8.5.1: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/joi@15.1.1: Switch to 'npm install joi'
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN cleanup Failed to remove some directories [
+npm WARN cleanup   [
+npm WARN cleanup     'C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules',
+npm WARN cleanup     [Error: EPERM: operation not permitted, unlink 'C:\Users\HP\Desktop\class 62\class\node_modules\fs.realpath\old.js'] {
+npm WARN cleanup       errno: -4048,
+npm WARN cleanup       code: 'EPERM',
+npm WARN cleanup       syscall: 'unlink',
+npm WARN cleanup       path: 'C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\fs.realpath\\old.js'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     'C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\@jimp',
+npm WARN cleanup     [Error: EPERM: operation not permitted, unlink 'C:\Users\HP\Desktop\class 62\class\node_modules\@jimp\tiff\test\images\rgb.tiff'] {
+npm WARN cleanup       errno: -4048,
+npm WARN cleanup       code: 'EPERM',
+npm WARN cleanup       syscall: 'unlink',
+npm WARN cleanup       path: 'C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\@jimp\\tiff\\test\\images\\rgb.tiff'
+npm WARN cleanup     }
+npm WARN cleanup   ]
+npm WARN cleanup ]
+npm ERR! code ERR_SOCKET_TIMEOUT
+npm ERR! errno ERR_SOCKET_TIMEOUT
+npm ERR! request to https://registry.npmjs.org/long/-/long-3.2.0.tgz failed, reason: Socket timeout
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\HP\AppData\Local\npm-cache\_logs\2021-02-22T11_13_05_996Z-debug.log
+
+C:\Users\HP\Desktop\class 62\class>npm install
+npm WARN deprecated deep-assign@3.0.0: Check out `lodash.merge` or `merge-options` instead.
+npm WARN deprecated @hapi/topo@3.1.6: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated @hapi/address@2.1.4: Moved to 'npm install @sideway/address'
+npm WARN deprecated @hapi/hoek@8.5.1: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/joi@15.1.1: Switch to 'npm install joi'
+npm WARN deprecated core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm ERR! code 1
+npm ERR! path C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! command failed
+npm ERR! command C:\windows\system32\cmd.exe /d /s /c node-pre-gyp install --fallback-to-build --library=static_library
+npm ERR! Failed to execute 'C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js configure --fallback-to-build --library=static_library --module=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node --module_name=grpc_node --module_path=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown --napi_version=7 --node_abi_napi=napi --napi_build_version=0 --node_napi_label=node-v88' (1)
+npm ERR! node-pre-gyp info it worked if it ends with ok
+npm ERR! node-pre-gyp info using node-pre-gyp@0.14.0
+npm ERR! node-pre-gyp info using node@15.9.0 | win32 | x64
+npm ERR! node-pre-gyp WARN Using needle for node-pre-gyp https download
+npm ERR! node-pre-gyp info check checked for "C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node" (not found)
+npm ERR! node-pre-gyp http GET https://node-precompiled-binaries.grpc.io/grpc/v1.24.2/node-v88-win32-x64-unknown.tar.gz
+npm ERR! node-pre-gyp WARN Pre-built binaries not installable for grpc@1.24.2 and node@15.9.0 (node-v88 ABI, unknown) (falling back to source compile with node-gyp)
+npm ERR! node-pre-gyp WARN Hit error getaddrinfo EAI_AGAIN node-precompiled-binaries.grpc.io
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp info using node-gyp@7.1.2
+npm ERR! gyp info using node@15.9.0 | win32 | x64
+npm ERR! gyp info ok
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp info using node-gyp@7.1.2
+npm ERR! gyp info using node@15.9.0 | win32 | x64
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! find Python Python is not set from command line or npm configuration
+npm ERR! gyp ERR! find Python Python is not set from environment variable PYTHON
+npm ERR! gyp ERR! find Python checking if "python3" can be used
+npm ERR! gyp ERR! find Python - "python3" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if "python" can be used
+npm ERR! gyp ERR! find Python - "python" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if "python2" can be used
+npm ERR! gyp ERR! find Python - "python2" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if Python is C:\Python37\python.exe
+npm ERR! gyp ERR! find Python - "C:\Python37\python.exe" could not be run
+npm ERR! gyp ERR! find Python checking if Python is C:\Python27\python.exe
+npm ERR! gyp ERR! find Python - "C:\Python27\python.exe" could not be run
+npm ERR! gyp ERR! find Python checking if the py launcher can be used to find Python
+npm ERR! gyp ERR! find Python - "py.exe" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! find Python **********************************************************
+npm ERR! gyp ERR! find Python You need to install the latest version of Python.
+npm ERR! gyp ERR! find Python Node-gyp should be able to find and use Python. If not,
+npm ERR! gyp ERR! find Python you can try one of the following options:
+npm ERR! gyp ERR! find Python - Use the switch --python="C:\Path\To\python.exe"
+npm ERR! gyp ERR! find Python   (accepted by both node-gyp and npm)
+npm ERR! gyp ERR! find Python - Set the environment variable PYTHON
+npm ERR! gyp ERR! find Python - Set the npm configuration variable python:
+npm ERR! gyp ERR! find Python   npm config set python "C:\Path\To\python.exe"
+npm ERR! gyp ERR! find Python For more information consult the documentation at:
+npm ERR! gyp ERR! find Python https://github.com/nodejs/node-gyp#installation
+npm ERR! gyp ERR! find Python **********************************************************
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! configure error
+npm ERR! gyp ERR! stack Error: Could not find any Python installation to use
+npm ERR! gyp ERR! stack     at PythonFinder.fail (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:302:47)
+npm ERR! gyp ERR! stack     at PythonFinder.runChecks (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:136:21)
+npm ERR! gyp ERR! stack     at PythonFinder.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:200:18)
+npm ERR! gyp ERR! stack     at PythonFinder.execFileCallback (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:266:16)
+npm ERR! gyp ERR! stack     at exithandler (node:child_process:333:5)
+npm ERR! gyp ERR! stack     at ChildProcess.errorhandler (node:child_process:345:5)
+npm ERR! gyp ERR! stack     at ChildProcess.emit (node:events:378:20)
+npm ERR! gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+npm ERR! gyp ERR! stack     at onErrorNT (node:internal/child_process:480:16)
+npm ERR! gyp ERR! stack     at processTicksAndRejections (node:internal/process/task_queues:81:21)
+npm ERR! gyp ERR! System Windows_NT 10.0.19042
+npm ERR! gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "configure" "--fallback-to-build" "--library=static_library" "--module=C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\src\\node\\extension_binary\\node-v88-win32-x64-unknown\\grpc_node.node" "--module_name=grpc_node" "--module_path=C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\src\\node\\extension_binary\\node-v88-win32-x64-unknown" "--napi_version=7" "--node_abi_napi=napi" "--napi_build_version=0" "--node_napi_label=node-v88"
+npm ERR! gyp ERR! cwd C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! gyp ERR! node -v v15.9.0
+npm ERR! gyp ERR! node-gyp -v v7.1.2
+npm ERR! gyp ERR! not ok
+npm ERR! node-pre-gyp ERR! build error
+npm ERR! node-pre-gyp ERR! stack Error: Failed to execute 'C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js configure --fallback-to-build --library=static_library --module=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node --module_name=grpc_node --module_path=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown --napi_version=7 --node_abi_napi=napi --napi_build_version=0 --node_napi_label=node-v88' (1)
+npm ERR! node-pre-gyp ERR! stack     at ChildProcess.<anonymous> (C:\Users\HP\Desktop\class 62\class\node_modules\grpc\node_modules\node-pre-gyp\lib\util\compile.js:83:29)
+npm ERR! node-pre-gyp ERR! stack     at ChildProcess.emit (node:events:378:20)
+npm ERR! node-pre-gyp ERR! stack     at maybeClose (node:internal/child_process:1067:16)
+npm ERR! node-pre-gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)
+npm ERR! node-pre-gyp ERR! System Windows_NT 10.0.19042
+npm ERR! node-pre-gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\node_modules\\node-pre-gyp\\bin\\node-pre-gyp" "install" "--fallback-to-build" "--library=static_library"
+npm ERR! node-pre-gyp ERR! cwd C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! node-pre-gyp ERR! node -v v15.9.0
+npm ERR! node-pre-gyp ERR! node-pre-gyp -v v0.14.0
+npm ERR! node-pre-gyp ERR! not ok
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\HP\AppData\Local\npm-cache\_logs\2021-02-22T11_15_06_397Z-debug.log
+
+C:\Users\HP\Desktop\class 62\class>node --version
+v15.9.0
+
+C:\Users\HP\Desktop\class 62\class>npm --version
+7.5.3
+
+C:\Users\HP\Desktop\class 62\class>npm install
+npm WARN deprecated deep-assign@3.0.0: Check out `lodash.merge` or `merge-options` instead.
+npm WARN deprecated @hapi/topo@3.1.6: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+npm WARN deprecated @hapi/address@2.1.4: Moved to 'npm install @sideway/address'
+npm WARN deprecated @hapi/hoek@8.5.1: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/joi@15.1.1: Switch to 'npm install joi'
+npm WARN deprecated core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm WARN deprecated core-js@2.6.12: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+npm ERR! code 1
+npm ERR! path C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! command failed
+npm ERR! command C:\windows\system32\cmd.exe /d /s /c node-pre-gyp install --fallback-to-build --library=static_library
+npm ERR! Failed to execute 'C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js configure --fallback-to-build --library=static_library --module=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node --module_name=grpc_node --module_path=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown --napi_version=7 --node_abi_napi=napi --napi_build_version=0 --node_napi_label=node-v88' (1)
+npm ERR! node-pre-gyp info it worked if it ends with ok
+npm ERR! node-pre-gyp info using node-pre-gyp@0.14.0
+npm ERR! node-pre-gyp info using node@15.9.0 | win32 | x64
+npm ERR! node-pre-gyp WARN Using needle for node-pre-gyp https download
+npm ERR! node-pre-gyp info check checked for "C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node" (not found)
+npm ERR! node-pre-gyp http GET https://node-precompiled-binaries.grpc.io/grpc/v1.24.2/node-v88-win32-x64-unknown.tar.gz
+npm ERR! node-pre-gyp http 404 https://node-precompiled-binaries.grpc.io/grpc/v1.24.2/node-v88-win32-x64-unknown.tar.gz
+npm ERR! node-pre-gyp WARN Tried to download(404): https://node-precompiled-binaries.grpc.io/grpc/v1.24.2/node-v88-win32-x64-unknown.tar.gz
+npm ERR! node-pre-gyp WARN Pre-built binaries not found for grpc@1.24.2 and node@15.9.0 (node-v88 ABI, unknown) (falling back to source compile with node-gyp)
+npm ERR! node-pre-gyp http 404 status code downloading tarball https://node-precompiled-binaries.grpc.io/grpc/v1.24.2/node-v88-win32-x64-unknown.tar.gz
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp info using node-gyp@7.1.2
+npm ERR! gyp info using node@15.9.0 | win32 | x64
+npm ERR! gyp info ok
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp info using node-gyp@7.1.2
+npm ERR! gyp info using node@15.9.0 | win32 | x64
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! find Python Python is not set from command line or npm configuration
+npm ERR! gyp ERR! find Python Python is not set from environment variable PYTHON
+npm ERR! gyp ERR! find Python checking if "python3" can be used
+npm ERR! gyp ERR! find Python - "python3" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if "python" can be used
+npm ERR! gyp ERR! find Python - "python" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if "python2" can be used
+npm ERR! gyp ERR! find Python - "python2" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python checking if Python is C:\Python37\python.exe
+npm ERR! gyp ERR! find Python - "C:\Python37\python.exe" could not be run
+npm ERR! gyp ERR! find Python checking if Python is C:\Python27\python.exe
+npm ERR! gyp ERR! find Python - "C:\Python27\python.exe" could not be run
+npm ERR! gyp ERR! find Python checking if the py launcher can be used to find Python
+npm ERR! gyp ERR! find Python - "py.exe" is not in PATH or produced an error
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! find Python **********************************************************
+npm ERR! gyp ERR! find Python You need to install the latest version of Python.
+npm ERR! gyp ERR! find Python Node-gyp should be able to find and use Python. If not,
+npm ERR! gyp ERR! find Python you can try one of the following options:
+npm ERR! gyp ERR! find Python - Use the switch --python="C:\Path\To\python.exe"
+npm ERR! gyp ERR! find Python   (accepted by both node-gyp and npm)
+npm ERR! gyp ERR! find Python - Set the environment variable PYTHON
+npm ERR! gyp ERR! find Python - Set the npm configuration variable python:
+npm ERR! gyp ERR! find Python   npm config set python "C:\Path\To\python.exe"
+npm ERR! gyp ERR! find Python For more information consult the documentation at:
+npm ERR! gyp ERR! find Python https://github.com/nodejs/node-gyp#installation
+npm ERR! gyp ERR! find Python **********************************************************
+npm ERR! gyp ERR! find Python
+npm ERR! gyp ERR! configure error
+npm ERR! gyp ERR! stack Error: Could not find any Python installation to use
+npm ERR! gyp ERR! stack     at PythonFinder.fail (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:302:47)
+npm ERR! gyp ERR! stack     at PythonFinder.runChecks (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:136:21)
+npm ERR! gyp ERR! stack     at PythonFinder.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:200:18)
+npm ERR! gyp ERR! stack     at PythonFinder.execFileCallback (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\find-python.js:266:16)
+npm ERR! gyp ERR! stack     at exithandler (node:child_process:333:5)
+npm ERR! gyp ERR! stack     at ChildProcess.errorhandler (node:child_process:345:5)
+npm ERR! gyp ERR! stack     at ChildProcess.emit (node:events:378:20)
+npm ERR! gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:288:12)
+npm ERR! gyp ERR! stack     at onErrorNT (node:internal/child_process:480:16)
+npm ERR! gyp ERR! stack     at processTicksAndRejections (node:internal/process/task_queues:81:21)
+npm ERR! gyp ERR! System Windows_NT 10.0.19042
+npm ERR! gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "configure" "--fallback-to-build" "--library=static_library" "--module=C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\src\\node\\extension_binary\\node-v88-win32-x64-unknown\\grpc_node.node" "--module_name=grpc_node" "--module_path=C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\src\\node\\extension_binary\\node-v88-win32-x64-unknown" "--napi_version=7" "--node_abi_napi=napi" "--napi_build_version=0" "--node_napi_label=node-v88"
+npm ERR! gyp ERR! cwd C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! gyp ERR! node -v v15.9.0
+npm ERR! gyp ERR! node-gyp -v v7.1.2
+npm ERR! gyp ERR! not ok
+npm ERR! node-pre-gyp ERR! build error
+npm ERR! node-pre-gyp ERR! stack Error: Failed to execute 'C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js configure --fallback-to-build --library=static_library --module=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown\grpc_node.node --module_name=grpc_node --module_path=C:\Users\HP\Desktop\class 62\class\node_modules\grpc\src\node\extension_binary\node-v88-win32-x64-unknown --napi_version=7 --node_abi_napi=napi --napi_build_version=0 --node_napi_label=node-v88' (1)
+npm ERR! node-pre-gyp ERR! stack     at ChildProcess.<anonymous> (C:\Users\HP\Desktop\class 62\class\node_modules\grpc\node_modules\node-pre-gyp\lib\util\compile.js:83:29)
+npm ERR! node-pre-gyp ERR! stack     at ChildProcess.emit (node:events:378:20)
+npm ERR! node-pre-gyp ERR! stack     at maybeClose (node:internal/child_process:1067:16)
+npm ERR! node-pre-gyp ERR! stack     at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)
+npm ERR! node-pre-gyp ERR! System Windows_NT 10.0.19042
+npm ERR! node-pre-gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\HP\\Desktop\\class 62\\class\\node_modules\\grpc\\node_modules\\node-pre-gyp\\bin\\node-pre-gyp" "install" "--fallback-to-build" "--library=static_library"
+npm ERR! node-pre-gyp ERR! cwd C:\Users\HP\Desktop\class 62\class\node_modules\grpc
+npm ERR! node-pre-gyp ERR! node -v v15.9.0
+npm ERR! node-pre-gyp ERR! node-pre-gyp -v v0.14.0
+npm ERR! node-pre-gyp ERR! not ok
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\HP\AppData\Local\npm-cache\_logs\2021-02-22T11_18_41_507Z-debug.log
+
+C:\Users\HP\Desktop\class 62\class>
